@@ -1,0 +1,5 @@
+~/Documents/TXT/selectBooks/BookLists/AllBooks.txt
+~/Documents/TXT/selectBooks/selectedBooks_Extensions.txt
+~/Documents/TXT/selectBooks/selectedBooks_RejectedExtensions.txt
+~/Documents/TXT/selectBooks/selectedBooks_ExtensionsSortedByName.txt
+~/Documents/TXT/selectBooks/selectedBooks_ExtensionsSortedByOccurrences.txt

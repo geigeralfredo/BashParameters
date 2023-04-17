@@ -1,0 +1,3 @@
+~/Documents/TXT/selectBooks/removeDuplicates_NumSizeFileSorted.txt
+~/Documents/TXT/selectBooks/eniplicities_Duplicates.txt
+~/Documents/TXT/selectBooks/eniplicities_Without_Duplicates.txt

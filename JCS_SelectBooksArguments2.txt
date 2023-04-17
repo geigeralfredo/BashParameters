@@ -1,0 +1,2 @@
+~/Documents/TXT/selectBooks/BookLists/selectedBooksTotals.txt
+~/Documents/TXT/selectBooks/

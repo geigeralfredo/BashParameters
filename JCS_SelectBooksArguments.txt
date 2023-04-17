@@ -1,0 +1,8 @@
+-b
+~/BookCollection/
+-l
+~/Documents/TXT/selectBooks/BookLists/
+-s
+~/Documents/TXT/wordsOnly/selectedBooks_Subjects3.txt
+-c
+N

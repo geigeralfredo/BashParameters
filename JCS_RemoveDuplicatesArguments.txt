@@ -1,0 +1,3 @@
+~/Documents/TXT/selectBooks/BookLists/AllBooks.txt
+~/Documents/TXT/selectBooks/removeDuplicates_CompleteRec.txt
+~/Documents/TXT/selectBooks/removeDuplicates_NumSizeFile.txt

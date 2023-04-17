@@ -1,0 +1,5 @@
+~/Documents/TXT/selectBooks/BookLists/AllBooks.txt
+~/BookCollection/
+~/Documents/TXT/wordsOnly/selectedBooks_OnlyWords.txt
+~/Documents/TXT/wordsOnly/selectedBooks_RejectedWords.txt
+~/Documents/TXT/wordsOnly/selectedBooks_RejectedByRegExs.txt

@@ -1,0 +1,3 @@
+~/BookCollection/
+~/Documents/TXT/selectBooks/BookLists/
+create=no

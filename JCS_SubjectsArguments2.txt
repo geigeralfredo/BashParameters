@@ -1,0 +1,4 @@
+~/Documents/TXT/wordsOnly/selectedBooks_OnlyWordsSorted.txt
+~/Documents/TXT/wordsOnly/selectedBooks_SubjectsWithoutPlural.txt
+~/Documents/TXT/wordsOnly/selectedBooks_SubjectsWithPlural.txt
+~/Documents/TXT/wordsOnly/selectedBooks_EncodedWords.txt
